@@ -2,7 +2,7 @@
 
  <div>
   <a href="https://github.com/oAnthonyG/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=oAnthonyG&count_private=true&show_icons=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=oAnthonyG&count_private=true&show_icons=true&theme=dracula" n/>
  </a>
  </div>
  <div>
