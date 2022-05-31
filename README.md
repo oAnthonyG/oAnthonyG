@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev Anthony 😁
+## Welcome to my GitHub 😁
 
  <div>
   <a href="https://github.com/oAnthonyG/github-readme-stats">
