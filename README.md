@@ -1,4 +1,4 @@
-## Wello Friend! 😁
+## Wello Friend! 
 
  <div>
   <a href="https://github.com/oAnthonyG/github-readme-stats">
