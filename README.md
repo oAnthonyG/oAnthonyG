@@ -29,3 +29,5 @@
   ![Snake animation](https://github.com/oAnthonyG/oAnthonyG/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+"Se eu não mudar o que faço hoje, todos os amanhãs serão iguais a ontem"
