@@ -1,25 +1,38 @@
 ## Hello Friend! 
 
-<p><strong>Conhecimentos</strong></p>
-<div align="left">
-<div>
-    
-<img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141" />
-
-    
- <p><strong>Estudando</strong></p>
- <div align="left">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-414141?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <br/>
+ <div>
+  <a href="https://github.com/oAnthonyG/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=oAnthonyG&count_private=true&show_icons=true&theme=dracula" n/>
+ </a>
  </div>
-</div>
+ <div>
+<a href="https://github.com/oAnthonyG/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oAnthonyG&theme=dracula" />
+</a>
+</div><br><br><br><br><br><br><br><br><br><br>
+
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/><br><br>
+  Loading... <br>
+  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  
+  
+</p>
  
  <br>
  
-
+## Contact
  
 <div> 
   
