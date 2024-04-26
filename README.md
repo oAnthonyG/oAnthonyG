@@ -45,6 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
+###
+
   ![Snake animation](https://github.com/oAnthonyG/oAnthonyG/blob/output/github-contribution-grid-snake.svg)
 
 </div>
