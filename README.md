@@ -1,16 +1,6 @@
 ## Hello Friend! 
 
- <div>
-  <a href="https://github.com/oAnthonyG/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=oAnthonyG&count_private=true&show_icons=true&theme=dracula" n/>
- </a>
- </div>
- <div>
-<a href="https://github.com/oAnthonyG/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oAnthonyG&theme=dracula" />
-</a>
-</div><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
+ 
 ## Portifólio
 * [AfroTodo - Site para salvar tarefas](https://oanthonyg.github.io/AfroToDo/)
 * [AfroTour - Site de viagens](https://anthony-afro-tour.netlify.app)
